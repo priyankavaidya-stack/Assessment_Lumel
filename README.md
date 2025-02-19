@@ -1,12 +1,2 @@
-<<<<<<< HEAD
-# Assessment_Lumel
-=======
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> ccc9038 (Project initial commit)
+## Live Demo 🚀  
+[Click here to view the app](https://priyankavaidya-stack.github.io/Assessment_Lumel/)
